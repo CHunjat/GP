@@ -3,11 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\UserK\\Desktop\\GP\\C\\CSTUDY\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{102DC8FD-7501-4D73-99D1-3761AC8629A1}|..\\\uBCC0\uC218\\\uBCC0\uC218.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\\uBCC0\uC218\\variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1296CF6D-4510-4112-A8ED-DD9D7B01F37D}|..\\ch2v\\ch2v.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\ch2v\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4608A52D-40CA-46EC-B99B-0B61B3BEE73B}|CSTUDY.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\CSTUDY\\helloworld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4608A52D-40CA-46EC-B99B-0B61B3BEE73B}|CSTUDY.vcxproj|solutionrelative:helloworld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{102DC8FD-7501-4D73-99D1-3761AC8629A1}|..\\\uBCC0\uC218\\\uBCC0\uC218.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\\uBCC0\uC218\\variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,7 +16,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,28 +24,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "variable.c",
               "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\GP\\C\\\uBCC0\uC218\\variable.c",
               "RelativeDocumentMoniker": "..\\\uBCC0\uC218\\variable.c",
               "ToolTip": "C:\\Users\\UserK\\Desktop\\GP\\C\\\uBCC0\uC218\\variable.c",
               "RelativeToolTip": "..\\\uBCC0\uC218\\variable.c",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-17T07:35:39.152Z",
+              "WhenOpened": "2025-02-18T07:51:53.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "helloworld.cpp",
-              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\GP\\C\\CSTUDY\\helloworld.cpp",
-              "RelativeDocumentMoniker": "helloworld.cpp",
-              "ToolTip": "C:\\Users\\UserK\\Desktop\\GP\\C\\CSTUDY\\helloworld.cpp",
-              "RelativeToolTip": "helloworld.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-14T07:19:11.89Z",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\GP\\C\\ch2v\\main.c",
+              "RelativeDocumentMoniker": "..\\ch2v\\main.c",
+              "ToolTip": "C:\\Users\\UserK\\Desktop\\GP\\C\\ch2v\\main.c",
+              "RelativeToolTip": "..\\ch2v\\main.c",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAQwFYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-18T07:07:49.235Z",
               "EditorCaption": ""
             }
           ]
