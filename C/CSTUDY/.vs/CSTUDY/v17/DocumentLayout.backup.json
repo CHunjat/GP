@@ -3,16 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\UserK\\Desktop\\GP\\C\\CSTUDY\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{900EBDE9-4DC2-434D-ACA1-3848D016C37D}|..\\DATA\\DATA.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\DATA\\Data.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C5F6AA84-3B05-41B7-AD51-E9BAED4C16B3}|..\\Operator\\Operator.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\Operator\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1296CF6D-4510-4112-A8ED-DD9D7B01F37D}|..\\ch2v\\ch2v.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\ch2v\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{102DC8FD-7501-4D73-99D1-3761AC8629A1}|..\\\uBCC0\uC218\\\uBCC0\uC218.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\\uBCC0\uC218\\variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5F6AA84-3B05-41B7-AD51-E9BAED4C16B3}|..\\Operator\\Operator.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UCRT\\STDIO.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,37 +19,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\GP\\C\\Operator\\main.c",
-              "RelativeDocumentMoniker": "..\\Operator\\main.c",
-              "ToolTip": "C:\\Users\\UserK\\Desktop\\GP\\C\\Operator\\main.c*",
-              "RelativeToolTip": "..\\Operator\\main.c*",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAQwJwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-19T07:05:04.647Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "stdio.h",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
-              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\GP\\C\\Operator\\main.c",
+              "RelativeDocumentMoniker": "..\\Operator\\main.c",
+              "ToolTip": "C:\\Users\\UserK\\Desktop\\GP\\C\\Operator\\main.c",
+              "RelativeToolTip": "..\\Operator\\main.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-19T08:12:38.519Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-20T07:48:59.289Z",
               "EditorCaption": ""
             },
             {
@@ -63,22 +46,22 @@
               "RelativeDocumentMoniker": "..\\\uBCC0\uC218\\variable.c",
               "ToolTip": "C:\\Users\\UserK\\Desktop\\GP\\C\\\uBCC0\uC218\\variable.c",
               "RelativeToolTip": "..\\\uBCC0\uC218\\variable.c",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-18T07:51:53.48Z",
+              "WhenOpened": "2025-02-20T07:39:34.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\GP\\C\\ch2v\\main.c",
-              "RelativeDocumentMoniker": "..\\ch2v\\main.c",
-              "ToolTip": "C:\\Users\\UserK\\Desktop\\GP\\C\\ch2v\\main.c",
-              "RelativeToolTip": "..\\ch2v\\main.c",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAQwFsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Data.c",
+              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\GP\\C\\DATA\\Data.c",
+              "RelativeDocumentMoniker": "..\\DATA\\Data.c",
+              "ToolTip": "C:\\Users\\UserK\\Desktop\\GP\\C\\DATA\\Data.c",
+              "RelativeToolTip": "..\\DATA\\Data.c",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-18T07:07:49.235Z",
+              "WhenOpened": "2025-02-20T07:24:51.707Z",
               "EditorCaption": ""
             }
           ]

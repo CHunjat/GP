@@ -1,0 +1,5 @@
+﻿  Data.c
+C:\Users\UserK\Desktop\GP\C\DATA\Data.c(151,10): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\UserK\Desktop\GP\C\DATA\Data.c(131,23): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\UserK\Desktop\GP\C\DATA\Data.c(148,15): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  DATA.vcxproj -> C:\Users\UserK\Desktop\GP\C\CSTUDY\x64\Debug\DATA.exe
