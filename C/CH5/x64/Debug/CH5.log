@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\SBS\Desktop\GP\C\CH5\main.c(162,12): warning C4552: '<=': 식의 결과가 사용되지 않습니다.
+C:\Users\SBS\Desktop\GP\C\CH5\main.c(179,17): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SBS\Desktop\GP\C\CH5\main.c(196,23): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CH5.vcxproj -> C:\Users\SBS\Desktop\GP\C\CSTUDY\x64\Debug\CH5.exe
