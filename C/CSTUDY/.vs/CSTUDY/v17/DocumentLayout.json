@@ -1,15 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SBS\\Desktop\\GP\\C\\CSTUDY\\",
+  "WorkspaceRootPath": "C:\\Users\\UserK\\Desktop\\GP\\C\\CSTUDY\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1296CF6D-4510-4112-A8ED-DD9D7B01F37D}|..\\ch2v\\ch2v.vcxproj|C:\\Users\\SBS\\Desktop\\GP\\C\\ch2v\\pra.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5DE9AE60-E3DE-4084-A5E0-A8706E4FA924}|..\\main\\main.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\main\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79F1B841-3EAB-40EE-BB16-9FCCC5F1168B}|..\\CH5\\CH5.vcxproj|C:\\Users\\SBS\\Desktop\\GP\\C\\CH5\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1296CF6D-4510-4112-A8ED-DD9D7B01F37D}|..\\ch2v\\ch2v.vcxproj|C:\\Users\\SBS\\Desktop\\GP\\C\\ch2v\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C5F6AA84-3B05-41B7-AD51-E9BAED4C16B3}|..\\Operator\\Operator.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\Operator\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,46 +16,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\GP\\C\\ch2v\\main.c",
-              "RelativeDocumentMoniker": "..\\ch2v\\main.c",
-              "ToolTip": "C:\\Users\\SBS\\Desktop\\GP\\C\\ch2v\\main.c",
-              "RelativeToolTip": "..\\ch2v\\main.c",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-21T08:13:32.688Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "pra.c",
-              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\GP\\C\\ch2v\\pra.c",
-              "RelativeDocumentMoniker": "..\\ch2v\\pra.c",
-              "ToolTip": "C:\\Users\\SBS\\Desktop\\GP\\C\\ch2v\\pra.c",
-              "RelativeToolTip": "..\\ch2v\\pra.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-21T08:47:35.376Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\GP\\C\\CH5\\main.c",
-              "RelativeDocumentMoniker": "..\\CH5\\main.c",
-              "ToolTip": "C:\\Users\\SBS\\Desktop\\GP\\C\\CH5\\main.c",
-              "RelativeToolTip": "..\\CH5\\main.c",
-              "ViewState": "AQIAAIAAAAAAAAAAAADgv4EAAAABAAAA",
+              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\GP\\C\\Operator\\main.c",
+              "RelativeDocumentMoniker": "..\\Operator\\main.c",
+              "ToolTip": "C:\\Users\\UserK\\Desktop\\GP\\C\\Operator\\main.c",
+              "RelativeToolTip": "..\\Operator\\main.c",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-21T08:07:08.463Z",
+              "WhenOpened": "2025-02-24T08:54:10.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\GP\\C\\main\\main.c",
+              "RelativeDocumentMoniker": "..\\main\\main.c",
+              "ToolTip": "C:\\Users\\UserK\\Desktop\\GP\\C\\main\\main.c",
+              "RelativeToolTip": "..\\main\\main.c",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAQwHYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-24T07:02:57.714Z",
               "EditorCaption": ""
             }
           ]

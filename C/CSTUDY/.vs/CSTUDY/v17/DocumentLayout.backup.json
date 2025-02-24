@@ -3,13 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\UserK\\Desktop\\GP\\C\\CSTUDY\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{900EBDE9-4DC2-434D-ACA1-3848D016C37D}|..\\DATA\\DATA.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\DATA\\Data.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5DE9AE60-E3DE-4084-A5E0-A8706E4FA924}|..\\main\\main.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\main\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5F6AA84-3B05-41B7-AD51-E9BAED4C16B3}|..\\Operator\\Operator.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\Operator\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{102DC8FD-7501-4D73-99D1-3761AC8629A1}|..\\\uBCC0\uC218\\\uBCC0\uC218.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\\uBCC0\uC218\\variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,7 +16,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,35 +30,22 @@
               "RelativeDocumentMoniker": "..\\Operator\\main.c",
               "ToolTip": "C:\\Users\\UserK\\Desktop\\GP\\C\\Operator\\main.c",
               "RelativeToolTip": "..\\Operator\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-20T07:48:59.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "variable.c",
-              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\GP\\C\\\uBCC0\uC218\\variable.c",
-              "RelativeDocumentMoniker": "..\\\uBCC0\uC218\\variable.c",
-              "ToolTip": "C:\\Users\\UserK\\Desktop\\GP\\C\\\uBCC0\uC218\\variable.c",
-              "RelativeToolTip": "..\\\uBCC0\uC218\\variable.c",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-20T07:39:34.696Z",
+              "WhenOpened": "2025-02-24T08:54:10.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Data.c",
-              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\GP\\C\\DATA\\Data.c",
-              "RelativeDocumentMoniker": "..\\DATA\\Data.c",
-              "ToolTip": "C:\\Users\\UserK\\Desktop\\GP\\C\\DATA\\Data.c",
-              "RelativeToolTip": "..\\DATA\\Data.c",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJQAAAAAAAAAAAAAAA==",
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\GP\\C\\main\\main.c",
+              "RelativeDocumentMoniker": "..\\main\\main.c",
+              "ToolTip": "C:\\Users\\UserK\\Desktop\\GP\\C\\main\\main.c*",
+              "RelativeToolTip": "..\\main\\main.c*",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAQwHYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-20T07:24:51.707Z",
+              "WhenOpened": "2025-02-24T07:02:57.714Z",
               "EditorCaption": ""
             }
           ]

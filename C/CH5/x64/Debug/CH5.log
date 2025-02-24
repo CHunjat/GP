@@ -1,5 +1,28 @@
 ﻿  main.c
-C:\Users\SBS\Desktop\GP\C\CH5\main.c(162,12): warning C4552: '<=': 식의 결과가 사용되지 않습니다.
-C:\Users\SBS\Desktop\GP\C\CH5\main.c(179,17): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\SBS\Desktop\GP\C\CH5\main.c(196,23): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  CH5.vcxproj -> C:\Users\SBS\Desktop\GP\C\CSTUDY\x64\Debug\CH5.exe
+C:\Users\UserK\Desktop\GP\C\CH5\main.c(89,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\UserK\Desktop\GP\C\CH5\main.c(89,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\UserK\Desktop\GP\C\CH5\main.c(90,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\UserK\Desktop\GP\C\CH5\main.c(90,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\UserK\Desktop\GP\C\CH5\main.c(91,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\UserK\Desktop\GP\C\CH5\main.c(91,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\UserK\Desktop\GP\C\CH5\main.c(97,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\UserK\Desktop\GP\C\CH5\main.c(97,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\UserK\Desktop\GP\C\CH5\main.c(98,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\UserK\Desktop\GP\C\CH5\main.c(98,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\UserK\Desktop\GP\C\CH5\main.c(117,28): warning C4138: '*/'가 주석 외부에 있습니다.
+C:\Users\UserK\Desktop\GP\C\CH5\main.c(117,29): error C2059: 구문 오류: '/'
+C:\Users\UserK\Desktop\GP\C\CH5\main.c(160,18): error C2065: 'REVIVEHP': 선언되지 않은 식별자입니다.
+C:\Users\UserK\Desktop\GP\C\CH5\main.c(162,12): warning C4552: '<=': 식의 결과가 사용되지 않습니다.
+C:\Users\UserK\Desktop\GP\C\CH5\main.c(165,14): error C2065: 'REVIVEHP': 선언되지 않은 식별자입니다.
+C:\Users\UserK\Desktop\GP\C\CH5\main.c(179,17): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\UserK\Desktop\GP\C\CH5\main.c(196,23): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.

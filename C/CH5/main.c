@@ -82,7 +82,7 @@
 
 int main()
 {
-	/*int num1 = 10;
+	int num1 = 10;
 	char num2 = 1;
 	short num3 = 3;
 	printf("정수 데이터의 크기 비교\n");
