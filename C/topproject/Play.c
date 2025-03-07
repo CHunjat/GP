@@ -1,11 +1,15 @@
 #pragma once
 #include "Play.h"
 
-int CurrentLevel = 8;
+int CurrentLevel = 0;
 int TargetLevel = 10;
 bool isClear = false;
 
-bool isFail = false;
+
+//방해요인 - 재화
+int CurrentMoney = 10000;
+int UpgardeCost = 2500;
+bool isFail = false; // 소지금이 일정 이하 일 때
 
 
 void ShowTitle()
