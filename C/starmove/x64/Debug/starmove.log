@@ -1,3 +1,5 @@
-﻿  play.c
+﻿  map.c
+  play.c
+  코드를 생성하고 있습니다...
 C:\Users\UserK\Desktop\GP\C\starmove\play.c(137,7): warning C4013: '_kbhit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   starmove.vcxproj -> C:\Users\UserK\Desktop\GP\C\CSTUDY\x64\Debug\starmove.exe

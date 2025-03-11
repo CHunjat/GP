@@ -9,16 +9,16 @@
       "AbsoluteMoniker": "D:0:0:{DF8840D2-5482-4CCB-BBEA-D3B078136EE4}|..\\starmove\\starmove.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\starmove\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF8840D2-5482-4CCB-BBEA-D3B078136EE4}|..\\starmove\\starmove.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\starmove\\play.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DF8840D2-5482-4CCB-BBEA-D3B078136EE4}|..\\starmove\\starmove.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\starmove\\map.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF8840D2-5482-4CCB-BBEA-D3B078136EE4}|..\\starmove\\starmove.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\starmove\\intro.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF8840D2-5482-4CCB-BBEA-D3B078136EE4}|..\\starmove\\starmove.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\starmove\\intro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DF8840D2-5482-4CCB-BBEA-D3B078136EE4}|..\\starmove\\starmove.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\starmove\\play.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF8840D2-5482-4CCB-BBEA-D3B078136EE4}|..\\starmove\\starmove.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\starmove\\map.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DF8840D2-5482-4CCB-BBEA-D3B078136EE4}|..\\starmove\\starmove.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\starmove\\intro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF8840D2-5482-4CCB-BBEA-D3B078136EE4}|..\\starmove\\starmove.vcxproj|C:\\Users\\UserK\\Desktop\\GP\\C\\starmove\\Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -45,14 +45,14 @@
               "RelativeDocumentMoniker": "..\\starmove\\play.c",
               "ToolTip": "C:\\Users\\UserK\\Desktop\\GP\\C\\starmove\\play.c",
               "RelativeToolTip": "..\\starmove\\play.c",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAAAMEAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAKAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-11T10:50:59.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "play.h",
               "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\GP\\C\\starmove\\play.h",
               "RelativeDocumentMoniker": "..\\starmove\\play.h",
@@ -60,8 +60,7 @@
               "RelativeToolTip": "..\\starmove\\play.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-11T10:50:04.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T10:50:04.911Z"
             },
             {
               "$type": "Document",
@@ -71,13 +70,13 @@
               "RelativeDocumentMoniker": "..\\starmove\\intro.c",
               "ToolTip": "C:\\Users\\UserK\\Desktop\\GP\\C\\starmove\\intro.c",
               "RelativeToolTip": "..\\starmove\\intro.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-11T08:54:03.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "intro.h",
               "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\GP\\C\\starmove\\intro.h",
               "RelativeDocumentMoniker": "..\\starmove\\intro.h",
@@ -89,13 +88,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "map.c",
               "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\GP\\C\\starmove\\map.c",
               "RelativeDocumentMoniker": "..\\starmove\\map.c",
               "ToolTip": "C:\\Users\\UserK\\Desktop\\GP\\C\\starmove\\map.c",
               "RelativeToolTip": "..\\starmove\\map.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-11T08:51:02.131Z"
             },

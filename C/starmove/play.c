@@ -58,10 +58,6 @@ void play()
 		clearStar(starX7, starY7);
 		clearStar(starX8, starY8);
 
-
-
-
-
 		// 별 이동
 		starY++;
 		starY2++;
@@ -71,8 +67,6 @@ void play()
 		starY6++;
 		starY7++;
 		starY8++;
-
-
 
 		// 별이 바닥에 도달하면 다시 위에서 떨어지도록
 		if (starY > 19)
@@ -190,7 +184,7 @@ void play()
 
 		int second = playTime % 6000;
 
-		setCursorPos(60, 2);
+		setCursorPos(45, 6);
 		printf("점수 : %04d", second);
 	}
 
