@@ -128,11 +128,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Border.c" />
-    <ClCompile Include="main.c" />
+    <ClCompile Include="console.c" />
+    <ClCompile Include="intro.c" />
     <ClCompile Include="random.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Border.h" />
+    <ClInclude Include="console.h" />
+    <ClInclude Include="Intro.h" />
     <ClInclude Include="random.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

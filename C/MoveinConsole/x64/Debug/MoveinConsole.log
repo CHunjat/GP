@@ -1,2 +1,14 @@
-﻿  main.c
-  MoveinConsole.vcxproj -> C:\Users\UserK\Desktop\GP\C\CSTUDY\x64\Debug\MoveinConsole.exe
+﻿  별피하기.c
+C:\Users\UserK\Desktop\GP\C\MoveinConsole\별피하기.c(14,9): warning C4005: 'NULL': 매크로 재정의
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vcruntime.h(230,17):
+      'NULL'의 이전 정의를 참조하십시오.
+  
+C:\Users\UserK\Desktop\GP\C\MoveinConsole\별피하기.c(105,7): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\UserK\Desktop\GP\C\MoveinConsole\별피하기.c(160,9): warning C4566: 유니버설 문자 이름 '\u02FA'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\UserK\Desktop\GP\C\MoveinConsole\별피하기.c(160,9): warning C4566: 유니버설 문자 이름 '\u03F1'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\UserK\Desktop\GP\C\MoveinConsole\별피하기.c(162,9): warning C4566: 유니버설 문자 이름 '\u0335'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\UserK\Desktop\GP\C\MoveinConsole\별피하기.c(164,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\UserK\Desktop\GP\C\MoveinConsole\별피하기.c(173,9): warning C4566: 유니버설 문자 이름 '\u0335'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\UserK\Desktop\GP\C\MoveinConsole\별피하기.c(179,9): warning C4566: 유니버설 문자 이름 '\u0537'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\UserK\Desktop\GP\C\MoveinConsole\별피하기.c(180,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\UserK\Desktop\GP\C\MoveinConsole\별피하기.c(213,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.

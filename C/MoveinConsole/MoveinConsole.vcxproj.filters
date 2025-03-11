@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.c">
+    <ClCompile Include="intro.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Border.c">
@@ -24,12 +24,21 @@
     <ClCompile Include="random.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="console.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Border.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="random.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Intro.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="console.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

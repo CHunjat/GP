@@ -59,6 +59,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MoveinConsole", "..\MoveinC
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "prat", "..\prat\prat.vcxproj", "{B3EFB098-E632-488F-ACD1-ADB4A6C0FBD9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GameProject", "GameProject", "{2D9CCD66-0E5B-495D-BBA8-7C7D0306EF68}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "starmove", "..\starmove\starmove.vcxproj", "{DF8840D2-5482-4CCB-BBEA-D3B078136EE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -187,6 +191,14 @@ Global
 		{B3EFB098-E632-488F-ACD1-ADB4A6C0FBD9}.Release|x64.Build.0 = Release|x64
 		{B3EFB098-E632-488F-ACD1-ADB4A6C0FBD9}.Release|x86.ActiveCfg = Release|Win32
 		{B3EFB098-E632-488F-ACD1-ADB4A6C0FBD9}.Release|x86.Build.0 = Release|Win32
+		{DF8840D2-5482-4CCB-BBEA-D3B078136EE4}.Debug|x64.ActiveCfg = Debug|x64
+		{DF8840D2-5482-4CCB-BBEA-D3B078136EE4}.Debug|x64.Build.0 = Debug|x64
+		{DF8840D2-5482-4CCB-BBEA-D3B078136EE4}.Debug|x86.ActiveCfg = Debug|Win32
+		{DF8840D2-5482-4CCB-BBEA-D3B078136EE4}.Debug|x86.Build.0 = Debug|Win32
+		{DF8840D2-5482-4CCB-BBEA-D3B078136EE4}.Release|x64.ActiveCfg = Release|x64
+		{DF8840D2-5482-4CCB-BBEA-D3B078136EE4}.Release|x64.Build.0 = Release|x64
+		{DF8840D2-5482-4CCB-BBEA-D3B078136EE4}.Release|x86.ActiveCfg = Release|Win32
+		{DF8840D2-5482-4CCB-BBEA-D3B078136EE4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -205,6 +217,7 @@ Global
 		{97958E7C-7CDD-4DF7-817A-4334F5230E46} = {1C79A21A-A87E-416A-9D7C-FB47AD3F6B67}
 		{7B5C9962-5E58-422D-B212-2D66AA0D487F} = {EA6FE58B-1819-44E2-BEF1-13E16002DC9F}
 		{0AD445E2-C3C3-496C-A27C-B5F602EB8307} = {F1363AE9-837B-432F-8F76-56A304424A19}
+		{DF8840D2-5482-4CCB-BBEA-D3B078136EE4} = {2D9CCD66-0E5B-495D-BBA8-7C7D0306EF68}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6D24F9C0-EBE4-4F93-A274-7B40CB042E4F}
